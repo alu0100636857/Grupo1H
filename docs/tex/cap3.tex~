@@ -1,0 +1,45 @@
+
+\section{Descripci\'on de los experimentos}
+\label{3:sec:1}
+
+bla, bla, etc. 
+
+\section{Descripci\'on del material}
+\label{3:sec:2}
+Para la realizaci\'on de las pruebas efectuadas se ha utilizado una m\'aquina computacional (ordenador) con las siguientes caracter\'isticas:\\
+\begin{itemize}
+ \item CPU type: Intel(R) Core(TM) i5 CPU M 460  @ 2.53GHz 
+ \item Vendor ID: GenuineIntel
+ \item CPU speed: 1199.000 Hz
+ \item Cache size: 3072 KB
+\end{itemize}
+
+
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{Resultados obtenidos}
+\label{3:sec:3}
+
+bla, bla, etc. 
+
+
+%------------------------------------------------------------------------------
+\begin{figure}[!th]
+\begin{center}
+\includegraphics[width=0.75\textwidth]{images/figura1.eps}
+\caption{Ejemplo de figura}
+\label{fig:1}
+\end{center}
+\end{figure}
+%------------------------------------------------------------------------------
+
+
+%------------------------------------------------------------------------------
+\input{tables/table.tex}
+%------------------------------------------------------------------------------
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{An�lisis de los resultados}
+\label{3:sec:4}
+
+bla, bla, etc. 

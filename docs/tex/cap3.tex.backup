@@ -1,0 +1,39 @@
+
+\section{Descripci\'on de los experimentos}
+\label{3:sec:1}
+
+bla, bla, etc. 
+
+\section{Descripci\'on del material}
+\label{3:sec:2}
+
+bla, bla, etc. 
+
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{Resultados obtenidos}
+\label{3:sec:3}
+
+bla, bla, etc. 
+
+
+%------------------------------------------------------------------------------
+\begin{figure}[!th]
+\begin{center}
+\includegraphics[width=0.75\textwidth]{images/figura1.eps}
+\caption{Ejemplo de figura}
+\label{fig:1}
+\end{center}
+\end{figure}
+%------------------------------------------------------------------------------
+
+
+%------------------------------------------------------------------------------
+\input{tables/table.tex}
+%------------------------------------------------------------------------------
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{An�lisis de los resultados}
+\label{3:sec:4}
+
+bla, bla, etc. 

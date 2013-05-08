@@ -1,0 +1,31 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Chapter 2: Fundamentos Te�ricos 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+\section{¿Quien fue Taylor?}
+\label{2:sec:1}
+  Brook Taylor fue un matem\'atico brit\'anico naci\'o en Edmonton, Middlesex el 18 de agosto de 1685, en el seno de una familia noble.\\
+Taylor cont\'o con una esmerada educaci\'on impartida por tutores privados hasta que se matricul\'o en el St. John's College de Cambridge. Con 24 a\~nos se licenci\'o en Derecho, y a los 29 se doctor\'o en esta materia. Pero es dudoso que alguna vez llegara a ejercer como abogado, ya que lo que verdaderamente le gustaba eran las matem\'aticas, que estudi\'o con John Machin y John Keill.\\
+Su primer trabajo matem\'atico importante fue en 1708 la soluci\'on al problema del "centro de oscilaci\'on" que, sin embargo, no se publicar\'ia hasta seis a\~nos en la revista Transacciones Filos\'oficas de la Royal Society, lo que provoc\'o una disputa sobre su autor\'ia con Johann Bernoulli.\\
+En 1712 fue elegido miembro de esa prestigiosa sociedad, y form\'o parte de la comisi\'on que deb\'ia juzgar si la autor\'ia del calculo diferencial correspond\'ia a Newton o a Leibniz. Fueron habituales los art\'iculos en la revista de la Sociedad, en los que, entre otras cosas, analiz\'o el movimiento de los proyectiles, las formas adoptadas por los l\'iquidos, los fen\'omenos de capilaridad, interesantes experimentos sobre el magnetismo o una nueva forma de c\'alculo para aproximar las ra\'ices de una ecuaci\'on dando lugar a un m\'etodo nuevo para logaritmos computacionales.\\
+En 1721 se cas\'o con una chica de buena familia pero sin dinero, lo que le llev\'o a enemistarse con su padre, que no ve\'ia con buenos ojos el matrimonio. La enemistad acab\'o en 1723 con la muerte de su mujer durante el parto, en el que tambi\'en muri\'o el ni\~no. Dos a\~nos m\'as tarde contraer\'ia de nuevo matrimonio, esta vez con la bendici\'on paterna, con Sabetta Sawbridge, que tambi\'en muri\'o de parto en 1730. Pero en este caso, su hija sobrevivi\'o.
+Taylor nunca, hab\'ia gozado de buena salud, y despu\'es de enviudar por segunda vez su estado se deterior\'o r\'apidamente. Muri\'o en Somerset House, cerca de Londres, el 29 de diciembre de 1731, a los 46 a\~nos de edad.
+
+\section{Aportaciones de Taylor a las Matem\'aticas}
+\label{2:sec:2}
+  En su obra m\'as famosa, Methodus Incrementorum Directa et Inversa, en 1715, desarroll\'o una nueva rama de las matem\'aticas conocida como C\'alculo de las diferencias finitas. En ella estudi\'o los cambios de variable, las diferencias finitas (las cuales defini\'o como incrementos), y present\'o el desarrollo en una serie de una funci\'on de una variable.
+Con este m\'etodo pudo determinar la ecuaci\'on diferencial que explica el movimiento de una cuerda vibrante, y trazar la trayectoria curva que sigue un rayo de luz cuando atraviesa un medio heterog\'eneo como la atm\'osfera.\\
+La obra tambi\'en contiene la famosa f\'ormula conocida como el Teorema de Taylor, cuya gran importancia para el desarrollo del c\'alculo diferencial fue puesta de manifiesto sesenta a\~nos despu\'es por el matem\'atico franc\'es Lagrange.
+Se trata de uno de los mayores inventos de la humanidad, pues permite reducir c\'alculos con funciones complicadas a las operaciones aritm\'eticas elementales suma y multiplicaci\'on.\\
+En otra de sus obras, Ensayo sobre la perspectiva lineal, Taylor estableci\'o las bases de la perspectiva geom\'etrica e introdujo el principio de los puntos dispersos.
+También destaca su correspondencia con Pierre R\'emond de Montmort sobre las doctrinas de Nicolas Malebranche. Entre sus cartas y tratados inacabados se han encontrado escritos sobre los sacrificios hebreos y sobre la legitimidad de comer sangre.\\
+Fue un cient\'ifico formidable, capaz de competir con matem\'aticos de la talla de Johann Bernoulli.
+Sin embargo, gran parte de sus descubrimientos no tuvieron repercusi\'on o se perdieron a causa de su incapacidad de expresar sus ideas completamente y con claridad.\\
+
+Un trabajo p\'ostumo titulado Contemplaci\'on Filos\'ofica, fue publicado en 1793 por su sobrino, William Young.
+\subsection{Interpolaci\'on por Taylor}
+Dada una funci\'on $f$ de la cual se conocen sus valores en un n\'umero finito de abscisas $x_{0}, x_{1}, ..., x_{m}$, se llama interpolaci\'on polin\'omica al proceso de hallar un polinomio $p_{m}(x)$ de grado menor o igual a $m$, cumpliendo $p_{m}(x_{k}) = f(x_{k})$, $\forall k = 0, 1, ..., m$
+A este polinomio se le llama Polinomio interpolador de grado m de la funci\'on $f$.\\

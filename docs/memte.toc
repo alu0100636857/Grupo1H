@@ -1,7 +1,7 @@
 \select@language {spanish}
 \contentsline {chapter}{\numberline {1}Motivaci\'on y objetivos}{1}
-\contentsline {section}{\numberline {1.1}Secci\'on Uno}{1}
-\contentsline {section}{\numberline {1.2}Secci\'on Dos}{1}
+\contentsline {section}{\numberline {1.1}Motivaci\'on}{1}
+\contentsline {section}{\numberline {1.2}Objetivos}{1}
 \contentsline {chapter}{\numberline {2}Fundamentos te\'oricos}{2}
 \contentsline {section}{\numberline {2.1}\^A\IeC {\textquestiondown }Quien fue Taylor?}{2}
 \contentsline {section}{\numberline {2.2}Aportaciones de Taylor a las Matem\'aticas}{3}
